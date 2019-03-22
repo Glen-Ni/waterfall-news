@@ -1,6 +1,7 @@
 ## 瀑布流新浪新闻页
 > 使用jQuery，使用新浪新闻API实现懒加载和瀑布流
-[预览地址]()
+
+[预览地址](https://glen-ni.github.io/waterfall-news/)
 
 ### 懒加载
 - 原理
